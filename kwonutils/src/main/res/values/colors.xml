@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="BLACK">#FF000000</color>
+	<color name="WHITE">#FFFFFFFF</color>
+	<color name="GRAY">#FFACACAC</color>
+	<color name="TRANSPARENT">#00FFFFFF</color>
+	<color name="RED">#FFFF0000</color>
+	<color name="BULE">#FF0000FF</color>
+	<color name="GREEN">#FF00FF00</color>
+	<color name="YELLOW">#FFFFFF00</color>
+	<color name="preventNo">#00fc9306</color>
+	<color name="preventYes">#ff0067cc</color>
+</resources>

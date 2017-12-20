@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 옛날 팝업 -->
+    <style name="MDialogTheme" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/cdialog_message</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <!-- 아기 팝업 -->
+    <style name="BabyDialogTheme" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/popup_baby_back</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <!-- 엄마 팝업 -->
+    <style name="MomDialogTheme" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/mother_popup_back</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+    <style name="MSetTheme" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/baby_set_image_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+    <style name="BSetTheme" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/popup_babysetting_back</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+</resources>
